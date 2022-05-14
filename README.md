@@ -1,2 +1,2 @@
-# Pet-Simulation-v1
+# Pet-Simulation-V1
 A Small text based game with some buttons
